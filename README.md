@@ -11,7 +11,7 @@ FEATURES PLACEHOLDER
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
 - Pull requests: Read & Write
-- Issues: Read & Write
+- Issues: Read & Write!
 
 2. Create a .github/config.yml file to check for content of the comments:
 
